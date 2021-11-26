@@ -6,6 +6,7 @@ Desenvolvimento de um modelo-computacional capaz de agrupar espécies de flores 
 https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sharing
 
 ### NB viewer: 
+https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabalho2_AM_Clustering.ipynb
 
 
 ### Assista à nossa apresentação: 
