@@ -11,7 +11,7 @@ https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabal
 
 ### Assista à nossa apresentação à seguir: 
 
-[<img src="https://img.youtube.com/vi/rm2VNBHo7Ks/maxresdefault.jpg" width="80%">](https://youtu.be/7bfNvzpduKY)
+[<img src="https://img.youtube.com/vi/7bfNvzpduKY/maxresdefault.jpg" width="80%">](https://youtu.be/7bfNvzpduKY)
 
 ### Equipe:
 Camila Manara Ribeiro
