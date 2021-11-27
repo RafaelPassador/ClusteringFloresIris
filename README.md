@@ -9,8 +9,9 @@ https://colab.research.google.com/drive/1dcTuiJgoOdeLTEEYVnHViyCoZ1wpF-y-?usp=sh
 https://nbviewer.org/github/RafaelPassador/ClusteringFloresIris/blob/main/Trabalho2_AM_Clustering.ipynb
 
 
-### Assista à nossa apresentação: 
+### Assista à nossa apresentação à seguir: 
 
+[<img src="https://img.youtube.com/vi/rm2VNBHo7Ks/maxresdefault.jpg" width="80%">](https://youtu.be/7bfNvzpduKY)
 
 ### Equipe:
 Camila Manara Ribeiro
